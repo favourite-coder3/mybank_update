@@ -92,3 +92,6 @@ The implementation of MyBank was inspired by the need for a simple banking appli
 ## Support
 
 If you have any questions, suggestions, or encounter any issues while using MyBank, please feel free to [open an issue](https://github.com/your-username/mybank/issues). Your feedback is highly appreciated!
+
+## HAPPY CODING
+
