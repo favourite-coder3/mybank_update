@@ -78,6 +78,9 @@ git push origin feature/my-new-feature
 
 MyBank is developed and maintained by [Bwave ICT](https://github.com/brightdaniel).
 
+![blue modern business presentation (1)_page-0010](https://github.com/favourite-coder3/mybank_update/assets/107308358/7196898e-07b1-4a39-8d73-7611ad627620)
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
